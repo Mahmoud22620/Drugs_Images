@@ -1,0 +1,828 @@
+Amoxicillin
+Penicillin
+Ceftriaxone
+Azithromycin
+Clarithromycin
+Doxycycline
+Tetracycline
+Erythromycin
+Cephalexin
+Ciprofloxacin
+Influenza Vaccine
+Hepatitis B Vaccine
+MMR Vaccine
+HPV Vaccine
+COVID-19 Vaccine
+Pneumococcal Vaccine
+Meningococcal Vaccine
+Tetanus Vaccine
+0.5 ML Bordetella pertussis filamentous hemagglutinin vaccine, inactivated 0.01 MG/ML / Bordetella pertussis fimbriae 2/3 vaccine, inactivated 0.01 MG/ML / Bordetella pertussis pertactin vaccine, inactivated 0.006 MG/ML / Bordetella pertussis toxoid vaccine, inactivated 0.005 MG/ML / diphtheria toxoid vaccine, inactivated 4 UNT/ML / tetanus toxoid vaccine, inactivated 10 UNT/ML Prefilled Syringe
+0.5 ML Bordetella pertussis filamentous hemagglutinin vaccine, inactivated 0.01 MG/ML / Bordetella pertussis fimbriae 2/3 vaccine, inactivated 0.01 MG/ML / Bordetella pertussis pertactin vaccine, inactivated 0.006 MG/ML / Bordetella pertussis toxoid vaccine, inactivated 0.005 MG/ML / diphtheria toxoid vaccine, inactivated 4 UNT/ML / tetanus toxoid vaccine, inactivated 10 UNT/ML Injection
+0.5 ML Bordetella pertussis filamentous hemagglutinin vaccine, inactivated 0.01 MG/ML / Bordetella pertussis fimbriae 2/3 vaccine, inactivated 0.01 MG/ML / Bordetella pertussis pertactin vaccine, inactivated 0.006 MG/ML / Bordetella pertussis toxoid vaccine, inactivated 0.02 MG/ML / diphtheria toxoid vaccine, inactivated 30 UNT/ML / tetanus toxoid vaccine, inactivated 10 UNT/ML Injection
+Diphtheria Vaccine
+Pertussis Vaccine
+Metformin
+Insulin Glargine
+Insulin Aspart
+Insulin Lispro
+Insulin Detemir
+Levemir
+Pen Injector
+Injectable Solution
+Injectable Product
+Insulin Degludec
+Insulin Regular
+insulin, regular, human 4 UNT Inhalation Powder
+insulin, regular, human 8 UNT Inhalation Powder
+insulin, regular, human 12 UNT Inhalation Powder
+Insulin NPH
+Glipizide
+glipizide 10 MG Oral Tablet
+24 HR glipizide 2.5 MG Extended Release Oral Tablet
+glipizide 5 MG Oral Tablet
+24 HR glipizide 5 MG Extended Release Oral Tablet
+24 HR glipizide 10 MG Extended Release Oral Tablet
+glipizide 2.5 MG Oral Tablet
+Glyburide
+glyburide 1.25 MG Oral Tablet
+glyburide 4.5 MG Oral Tablet
+glyburide 2.5 MG Oral Tablet
+glyburide 3 MG Oral Tablet
+glyburide 5 MG Oral Tablet
+glyburide 6 MG Oral Tablet
+glyburide 1.5 MG Oral Tablet
+glyburide 3.5 MG Oral Tablet
+Amlodipine
+amlodipine 5 MG / hydrochlorothiazide 25 MG / olmesartan medoxomil 40 MG Oral Tablet
+aliskiren 150 MG / amlodipine 5 MG / hydrochlorothiazide 12.5 MG Oral Tablet
+aliskiren 300 MG / amlodipine 10 MG / hydrochlorothiazide 12.5 MG Oral Tablet
+aliskiren 300 MG / amlodipine 10 MG / hydrochlorothiazide 25 MG Oral Tablet
+aliskiren 300 MG / amlodipine 5 MG / hydrochlorothiazide 12.5 MG Oral Tablet
+aliskiren 300 MG / amlodipine 5 MG / hydrochlorothiazide 25 MG Oral Tablet
+Lisinopril
+Losartan
+Enalapril
+Ramipril
+Valsartan
+Candesartan
+Telmisartan
+Irbesartan
+Olmesartan
+olmesartan medoxomil 5 MG Oral Tablet
+olmesartan medoxomil 20 MG Oral Tablet
+olmesartan medoxomil 40 MG Oral Tablet
+olmesartan medoxomil 10 MG Oral Tablet
+Atenolol
+Metoprolol
+metoprolol tartrate 37.5 MG Oral Tablet
+metoprolol tartrate 75 MG Oral Tablet
+24 HR metoprolol succinate 100 MG Extended Release Oral Capsule
+24 HR metoprolol succinate 200 MG Extended Release Oral Capsule
+24 HR metoprolol succinate 25 MG Extended Release Oral Capsule
+24 HR metoprolol succinate 50 MG Extended Release Oral Capsule
+Bisoprolol
+Carvedilol
+Nebivolol
+Propranolol
+Diltiazem
+Verapamil
+Hydrochlorothiazide
+Furosemide
+Chlorthalidone
+Indapamide
+Spironolactone
+spironolactone 100 MG Oral Tablet
+spironolactone 50 MG Oral Tablet
+Eplerenone
+eplerenone 25 MG Oral Tablet
+eplerenone 50 MG Oral Tablet
+eplerenone 100 MG Oral Tablet
+Inspra
+Oral Tablet
+Oral Product
+Clonidine
+12 HR clonidine hydrochloride 0.1 MG Extended Release Oral Tablet
+clonidine hydrochloride 0.1 MG Oral Tablet
+clonidine hydrochloride 0.2 MG Oral Tablet
+clonidine hydrochloride 0.3 MG Oral Tablet
+Methyldopa
+Hydralazine
+hydralazine hydrochloride 10 MG Oral Tablet
+hydralazine hydrochloride 100 MG Oral Tablet
+hydralazine hydrochloride 25 MG Oral Tablet
+hydralazine hydrochloride 25 MG / hydrochlorothiazide 15 MG / reserpine 0.1 MG Oral Tablet
+Minoxidil
+minoxidil 10 MG Oral Tablet
+minoxidil 2.5 MG Oral Tablet
+minoxidil 5 MG Oral Tablet
+Prazosin
+prazosin 5 MG Oral Capsule
+prazosin 0.5 MG Oral Tablet
+prazosin 1 MG Oral Tablet
+prazosin 2 MG Oral Tablet
+prazosin 5 MG Oral Tablet
+Doxazosin
+doxazosin 1 MG Oral Tablet
+doxazosin 2 MG Oral Tablet
+doxazosin 4 MG Oral Tablet
+doxazosin 8 MG Oral Tablet
+24 HR doxazosin 4 MG Extended Release Oral Tablet
+24 HR doxazosin 8 MG Extended Release Oral Tablet
+Terazosin
+Labetalol
+Nifedipine
+Osmotic 24 HR nifedipine 30 MG Extended Release Oral Tablet
+Osmotic 24 HR nifedipine 60 MG Extended Release Oral Tablet
+Osmotic 24 HR nifedipine 90 MG Extended Release Oral Tablet
+nifedipine 10 MG Oral Capsule
+nifedipine 20 MG Oral Capsule
+24 HR nifedipine 30 MG Extended Release Oral Tablet
+24 HR nifedipine 60 MG Extended Release Oral Tablet
+24 HR nifedipine 90 MG Extended Release Oral Tablet
+Nimodipine
+nimodipine 30 MG Oral Capsule
+nimodipine 30 MG Oral Tablet
+Isradipine
+isradipine 2.5 MG Oral Capsule
+isradipine 5 MG Oral Capsule
+isradipine 2.5 MG Oral Tablet
+24 HR isradipine 10 MG Extended Release Oral Tablet
+24 HR isradipine 5 MG Extended Release Oral Tablet
+Extended Release Oral Tablet
+Oral Capsule
+Felodipine
+24 HR felodipine 10 MG Extended Release Oral Tablet
+24 HR felodipine 5 MG Extended Release Oral Tablet
+24 HR felodipine 2.5 MG Extended Release Oral Tablet
+Nicardipine
+12 HR nicardipine hydrochloride 45 MG Extended Release Oral Capsule
+12 HR nicardipine hydrochloride 30 MG Extended Release Oral Capsule
+nicardipine hydrochloride 20 MG Oral Capsule
+nicardipine hydrochloride 30 MG Oral Capsule
+Aliskiren
+aliskiren 150 MG Oral Tablet
+aliskiren 300 MG Oral Tablet
+Amiloride
+Torsemide
+Bumetanide
+Azilsartan
+Trandolapril
+Moexipril
+Perindopril
+Quinapril
+Methazolamide
+Methyclothiazide
+Reserpine
+reserpine 0.1 MG Oral Tablet
+reserpine 0.25 MG Oral Tablet
+Guanfacine
+guanfacine 1 MG Oral Tablet
+guanfacine 2 MG Oral Tablet
+24 HR guanfacine 1 MG Extended Release Oral Tablet
+24 HR guanfacine 2 MG Extended Release Oral Tablet
+24 HR guanfacine 3 MG Extended Release Oral Tablet
+24 HR guanfacine 4 MG Extended Release Oral Tablet
+Doxorubicin
+doxorubicin hydrochloride 50 MG Injection
+doxorubicin hydrochloride 10 MG Injection
+Cyclophosphamide
+cyclophosphamide 25 MG Oral Capsule
+cyclophosphamide 50 MG Oral Capsule
+cyclophosphamide 500 MG Injection
+cyclophosphamide 1000 MG Injection
+cyclophosphamide 2000 MG Injection
+cyclophosphamide 25 MG Oral Tablet
+cyclophosphamide 50 MG Oral Tablet
+Cisplatin
+Carboplatin
+Oxaliplatin
+Paclitaxel
+Docetaxel
+Etoposide
+Vincristine
+Vinblastine
+Methotrexate
+5-Fluorouracil
+Capecitabine
+capecitabine 150 MG Oral Tablet
+capecitabine 500 MG Oral Tablet
+Xeloda
+Pill
+Gemcitabine
+gemcitabine 200 MG Injection
+gemcitabine 1000 MG Injection
+gemcitabine 2000 MG Injection
+Pemetrexed
+pemetrexed 500 MG Injection
+pemetrexed 100 MG Injection
+pemetrexed 1000 MG Injection
+pemetrexed 750 MG Injection
+Irinotecan
+Topotecan
+Imatinib
+Dasatinib
+Nilotinib
+nilotinib 50 MG Oral Capsule
+nilotinib 71 MG Oral Tablet
+nilotinib 95 MG Oral Tablet
+nilotinib 200 MG Oral Capsule
+nilotinib 150 MG Oral Capsule
+Erlotinib
+Gefitinib
+Sorafenib
+Sunitinib
+sunitinib 37.5 MG Oral Capsule
+sunitinib 12.5 MG Oral Capsule
+sunitinib 25 MG Oral Capsule
+sunitinib 50 MG Oral Capsule
+Bevacizumab
+Trastuzumab
+Rituximab
+Pembrolizumab
+Nivolumab
+Atezolizumab
+atezolizumab-tqjs
+Durvalumab
+Imfinzi
+Injection
+Avelumab
+Bavencio
+Bavencio Injectable Product
+Tamoxifen
+Letrozole
+Anastrozole
+Exemestane
+Leuprolide
+Goserelin
+Bicalutamide
+Flutamide
+Abiraterone
+Enzalutamide
+Thalidomide
+Lenalidomide
+lenalidomide 2.5 MG Oral Capsule
+lenalidomide 20 MG Oral Capsule
+lenalidomide 10 MG Oral Capsule
+lenalidomide 5 MG Oral Capsule
+lenalidomide 15 MG Oral Capsule
+lenalidomide 25 MG Oral Capsule
+Temozolomide
+Bleomycin
+Mitomycin
+Mitoxantrone
+Cladribine
+Hydroxyurea
+hydroxyurea 500 MG Oral Capsule
+hydroxyurea 100 MG Oral Tablet
+hydroxyurea 200 MG Oral Capsule
+hydroxyurea 300 MG Oral Capsule
+hydroxyurea 400 MG Oral Capsule
+hydroxyurea 1000 MG Oral Tablet
+Ibuprofen
+chlorpheniramine maleate 2 MG / ibuprofen 200 MG / pseudoephedrine hydrochloride 30 MG Oral Tablet
+chlorpheniramine maleate 4 MG / ibuprofen 200 MG / phenylephrine hydrochloride 10 MG Oral Tablet
+Naproxen
+Aspirin
+Diclofenac
+Celecoxib
+Indomethacin
+Meloxicam
+Ketorolac
+Piroxicam
+Etodolac
+Sulindac
+Nabumetone
+Fenoprofen
+Meclofenamate
+meclofenamate 100 MG Oral Capsule
+meclofenamate 50 MG Oral Capsule
+meclofenamate sodium
+meclofenamate 100 MG
+meclofenamate 50 MG
+Oxaprozin
+oxaprozin 300 MG Oral Capsule
+oxaprozin 600 MG Oral Tablet
+oxaprozin potassium
+Daypro
+Coxanto
+Diflunisal
+diflunisal 250 MG Oral Tablet
+diflunisal 500 MG Oral Tablet
+diflunisal 375 MG Oral Tablet
+Dolobid
+Tolmetin
+Flurbiprofen
+Tenoxicam
+Lornoxicam
+Dexketoprofen
+Zomepirac
+Isoxicam
+Mefenamic acid
+mefenamic acid 250 MG Oral Capsule
+mefenamic acid 500 MG Oral Tablet
+Oral Suspension
+Etoricoxib
+Valdecoxib
+valdecoxib 10 MG Oral Tablet
+valdecoxib 20 MG Oral Tablet
+valdecoxib 40 MG Oral Tablet
+valdecoxib 10 MG
+valdecoxib 20 MG
+Parecoxib
+parecoxib sodium
+parecoxib Injectable Product
+Rofecoxib
+rofecoxib 12.5 MG Oral Tablet
+rofecoxib 50 MG Oral Tablet
+rofecoxib 25 MG Oral Tablet
+Lumiracoxib
+Acetaminophen (technically not NSAID but used similarly)
+Ketoprofen
+Phenylbutazone
+Tolfenamic acid
+Tiaprofenic acid
+tiaprofenic acid Oral Tablet
+tiaprofenate 200 MG Oral Tablet
+tiaprofenate 300 MG Oral Tablet
+24 HR tiaprofenate 300 MG Extended Release Oral Capsule
+Proquazone
+Pranoprofen
+Benoxaprofen
+(+/-)-fenoprofen
+Carprofen
+carprofen 25 MG Chewable Tablet
+carprofen 75 MG Chewable Tablet
+carprofen 100 MG Chewable Tablet
+carprofen 100 MG Oral Tablet
+carprofen 25 MG Oral Tablet
+carprofen 75 MG Oral Tablet
+Nimesulide
+Zaltoprofen
+Glafenine
+Acemetacin
+Azapropazone
+Clonixin
+lysine clonixinate
+clonixin / cyproheptadine / ergotamine
+Bromfenac
+Amfenac
+Nepafenac
+Suprofen
+Ophthalmic Product
+suprofen Ophthalmic Solution
+suprofen Ophthalmic Product
+Oxicams (group)
+Warfarin
+Heparin
+heparin, porcine
+Enoxaparin
+Dalteparin
+Fondaparinux
+Apixaban
+Rivaroxaban
+Edoxaban
+Dabigatran
+Bivalirudin
+Argatroban
+Desirudin
+Lepirudin
+Danaparoid
+danaparoid sodium
+danaparoid Injectable Solution
+danaparoid Injectable Product
+Tinzaparin
+tinzaparin sodium
+tinzaparin sodium,porcine
+Tirofiban
+tirofiban hydrochloride
+Aggrastat
+Eptifibatide
+eptifibatide Injection
+Abciximab
+abciximab Injection
+abciximab Injectable Product
+Clopidogrel
+clopidogrel 75 MG Oral Tablet
+clopidogrel 300 MG Oral Tablet
+clopidogrel bisulfate
+Plavix
+Prasugrel
+prasugrel 10 MG Oral Tablet
+prasugrel 5 MG Oral Tablet
+prasugrel hydrochloride
+Effient
+Ticagrelor
+Cangrelor
+Ticlopidine
+Cilostazol
+cilostazol 100 MG Oral Tablet
+cilostazol 50 MG Oral Tablet
+cilostazol 100 MG
+cilostazol 50 MG
+cilostazol Oral Tablet
+Dipyridamole
+dipyridamole 50 MG Oral Tablet
+dipyridamole 100 MG Oral Tablet
+dipyridamole 25 MG Oral Tablet
+dipyridamole 75 MG Oral Tablet
+12 HR dipyridamole 200 MG Extended Release Oral Capsule
+Anagrelide
+Pentoxifylline
+Vorapaxar
+Streptokinase
+Alteplase
+Reteplase
+Tenecteplase
+tenecteplase 25 MG Injection
+tenecteplase 50 MG Injection
+Tnkase
+Urokinase
+Kinlytic
+Tranexamic acid
+Aminocaproic acid
+Protamine sulfate
+Idarucizumab
+Andexanet alfa
+Vitamin K
+Ethamsylate
+Betrixaban
+Phenindione
+phenindione 25 MG Oral Tablet
+phenindione 50 MG Oral Tablet
+phenindione 10 MG Oral Tablet
+phenindione 10 MG
+phenindione 25 MG
+Acenocoumarol
+acenocoumarol 1 MG Oral Tablet
+acenocoumarol 1 MG
+acenocoumarol Oral Tablet
+acenocoumarol Oral Product
+acenocoumarol Pill
+Anistreplase
+Defibrotide
+defibrotide sodium
+defibrotide, bovine lung
+Defitelio
+Ardeparin
+ardeparin sodium
+ardeparin Injectable Product
+Sulodexide
+Ximelagatran
+Hirudin
+Melagatran
+Levothyroxine
+levothyroxine sodium 0.1 MG Injection
+levothyroxine sodium 0.2 MG Injection
+levothyroxine sodium 0.175 MG Oral Capsule
+levothyroxine sodium 0.2 MG Oral Capsule
+Liothyronine
+liothyronine sodium 0.005 MG Oral Tablet
+liothyronine sodium 0.025 MG Oral Tablet
+Estradiol
+Progesterone
+progesterone 300 MG Vaginal Insert
+progesterone 1380 MG Vaginal Insert
+progesterone 100 MG Oral Capsule
+Testosterone
+Insulin
+Glucagon
+glucagon 3 MG Nasal Powder
+glucagon (rDNA) 1 MG Injection
+Growth Hormone
+Somatropin
+Cortisol
+Prednisone
+prednisone 1 MG Delayed Release Oral Tablet
+prednisone 2 MG Delayed Release Oral Tablet
+prednisone 5 MG Delayed Release Oral Tablet
+prednisone 1 MG Oral Tablet
+prednisone 10 MG Oral Tablet
+prednisone 2.5 MG Oral Tablet
+prednisone 50 MG Oral Tablet
+Hydrocortisone
+Dexamethasone
+Fludrocortisone
+fludrocortisone acetate 0.1 MG Oral Tablet
+fludrocortisone acetate
+fludrocortisone / hexamidine / selenium sulfide
+fludrocortisone acetate 0.1 MG
+fludrocortisone Oral Tablet
+Desmopressin
+desmopressin acetate 0.0277 MG Sublingual Tablet
+desmopressin acetate 0.0553 MG Sublingual Tablet
+desmopressin acetate 0.2 MG Oral Tablet
+Oxytocin
+oxytocin acetate
+Calcitonin
+Parathyroid Hormone
+Human Chorionic Gonadotropin (hCG)
+chorionic gonadotropin
+human chorionic gonadotropin
+Human Menopausal Gonadotropin (hMG)
+Gonadorelin
+goserelin 3.6 MG Drug Implant
+goserelin 10.8 MG Drug Implant
+goserelin acetate
+Zoladex
+Drug Implant
+Drug Implant Product
+Nafarelin
+nafarelin acetate
+Synarel
+Metered Dose Nasal Spray
+Inhalant Product
+Nasal Product
+Buserelin
+buserelin acetate
+Nasal Spray
+Triptorelin
+triptorelin 3.75 MG Injection
+triptorelin 22.5 MG Injection
+triptorelin 11.25 MG Injection
+triptorelin acetate
+Somatostatin
+somatostatin acetate
+Octreotide
+octreotide 20 MG Delayed Release Oral Capsule
+Lanreotide
+lanreotide acetate
+Somatuline
+Mifepristone
+mifepristone 300 MG Oral Tablet
+mifepristone 200 MG Oral Tablet
+Korlym
+Mifeprex
+Ulipristal
+ulipristal acetate 30 MG Oral Tablet
+ulipristal acetate 5 MG Oral Tablet
+ulipristal acetate
+Ella
+Melatonin
+melatonin 10 MG Extended Release Oral Tablet
+melatonin 5 MG Disintegrating Oral Tablet
+melatonin 10 MG Oral Tablet
+5-hydroxytryptophan 50 MG / magnesium oxide 50 MG / melatonin 2 MG / tryptophan 100 MG / vitamin B6 10 MG Oral Capsule
+melatonin 2.5 MG Chewable Tablet
+Thyrotropin
+Adrenocorticotropic hormone (ACTH)
+Bromocriptine
+bromocriptine 2.5 MG Oral Tablet
+bromocriptine 5 MG Oral Capsule
+bromocriptine 1 MG Oral Tablet
+bromocriptine 10 MG Oral Capsule
+bromocriptine 0.8 MG Oral Tablet
+Cabergoline
+cabergoline 1 MG Oral Tablet
+cabergoline 2 MG Oral Tablet
+cabergoline 4 MG Oral Tablet
+cabergoline 0.5 MG Oral Tablet
+cabergoline 0.5 MG
+Danazol
+danazol 100 MG Oral Capsule
+danazol 200 MG Oral Capsule
+danazol 50 MG Oral Capsule
+danazol 100 MG
+danazol 50 MG
+Ethinyl estradiol
+drospirenone 3 MG / ethinyl estradiol 0.02 MG / levomefolate calcium 0.451 MG Oral Tablet
+drospirenone 3 MG / ethinyl estradiol 0.03 MG / levomefolate calcium 0.451 MG Oral Tablet
+Medroxyprogesterone
+medroxyprogesterone acetate 10 MG Oral Tablet
+medroxyprogesterone acetate 2.5 MG Oral Tablet
+medroxyprogesterone acetate 5 MG Oral Tablet
+Norethindrone
+norethindrone acetate 5 MG Oral Tablet
+Drospirenone
+drospirenone 4 MG Oral Tablet
+Levonorgestrel
+levonorgestrel 0.03 MG Oral Tablet
+levonorgestrel 0.0375 MG Oral Tablet
+Dienogest
+dienogest 2 MG Oral Tablet
+Tibolone
+tibolone 2.5 MG Oral Tablet
+tibolone 2.5 MG
+tibolone Oral Tablet
+tibolone Oral Product
+tibolone Pill
+Raloxifene
+raloxifene hydrochloride 60 MG Oral Tablet
+raloxifene hydrochloride
+Evista
+Alendronate
+alendronic acid 70 MG Effervescent Oral Tablet
+alendronic acid 35 MG Oral Tablet
+alendronic acid 40 MG Oral Tablet
+alendronic acid 10 MG Oral Tablet
+alendronic acid 5 MG Oral Tablet
+alendronic acid 70 MG Oral Tablet
+Zoledronic acid
+zoledronic acid 4 MG Injection
+zoledronic acid anhydrous
+Reclast
+Teriparatide
+Denosumab
+Estriol
+estriol 1 MG Oral Tablet
+estriol succinate
+estriol / thymol / urea
+estradiol / estriol
+estradiol / estriol / norethindrone
+Acyclovir
+acyclovir 50 MG Buccal Tablet
+acyclovir 200 MG Oral Capsule
+acyclovir 400 MG Oral Tablet
+Valacyclovir
+valacyclovir 1000 MG Oral Tablet
+valacyclovir 500 MG Oral Tablet
+valacyclovir 250 MG Oral Tablet
+valacyclovir hydrochloride
+valacyclovir hydrochloride monohydrate
+Valtrex
+Famciclovir
+famciclovir 750 MG Oral Tablet
+famciclovir 500 MG Oral Tablet
+famciclovir 125 MG Oral Tablet
+famciclovir 250 MG Oral Tablet
+Famvir
+Ganciclovir
+ganciclovir 500 MG Oral Capsule
+ganciclovir 500 MG Injection
+ganciclovir 250 MG Oral Capsule
+ganciclovir 4.5 MG Drug Implant
+Valganciclovir
+valganciclovir 450 MG Oral Tablet
+valganciclovir hydrochloride
+Valcyte
+Oral Solution
+Oseltamivir
+oseltamivir 75 MG Oral Capsule
+oseltamivir 30 MG Oral Capsule
+oseltamivir 45 MG Oral Capsule
+Zanamivir
+Relenza
+Dry Powder Inhaler
+Relenza Inhalant Product
+Peramivir
+peramivir anhydrous
+Rapivab
+Amantadine
+24 HR amantadine 137 MG Extended Release Oral Capsule
+24 HR amantadine 68.5 MG Extended Release Oral Capsule
+24 HR amantadine 129 MG Extended Release Oral Tablet
+24 HR amantadine 193 MG Extended Release Oral Tablet
+24 HR amantadine 258 MG Extended Release Oral Tablet
+amantadine hydrochloride 100 MG Oral Capsule
+amantadine hydrochloride 100 MG Oral Tablet
+Rimantadine
+rimantadine hydrochloride 100 MG Oral Tablet
+rimantadine hydrochloride
+Flumadine
+Lamivudine
+abacavir 600 MG / dolutegravir 50 MG / lamivudine 300 MG Oral Tablet
+lamivudine 150 MG Oral Tablet
+efavirenz 400 MG / lamivudine 300 MG / tenofovir disoproxil fumarate 300 MG Oral Tablet
+lamivudine 100 MG Oral Tablet
+doravirine 100 MG / lamivudine 300 MG / tenofovir disoproxil fumarate 300 MG Oral Tablet
+Emtricitabine
+emtricitabine 200 MG / rilpivirine 25 MG / tenofovir disoproxil fumarate 300 MG Oral Tablet
+emtricitabine 200 MG / rilpivirine 25 MG / tenofovir alafenamide 25 MG Oral Tablet
+Tenofovir
+tenofovir anhydrous
+Abacavir
+abacavir 300 MG Oral Tablet
+abacavir 60 MG / dolutegravir 5 MG / lamivudine 30 MG Tablet for Oral Suspension
+abacavir 300 MG / lamivudine 150 MG / zidovudine 300 MG Oral Tablet
+Zidovudine
+zidovudine 250 MG Oral Capsule
+zidovudine 100 MG Oral Capsule
+zidovudine 300 MG Oral Tablet
+lamivudine 150 MG / nevirapine 200 MG / zidovudine 300 MG Oral Tablet
+Stavudine
+stavudine 15 MG Oral Capsule
+stavudine 20 MG Oral Capsule
+stavudine 30 MG Oral Capsule
+stavudine 40 MG Oral Capsule
+lamivudine 30 MG / nevirapine 50 MG / stavudine 6 MG Disintegrating Oral Tablet
+Didanosine
+didanosine 125 MG Delayed Release Oral Capsule
+didanosine 250 MG Delayed Release Oral Capsule
+didanosine 200 MG Delayed Release Oral Capsule
+didanosine 400 MG Delayed Release Oral Capsule
+Nevirapine
+24 HR nevirapine 400 MG Extended Release Oral Tablet
+24 HR nevirapine 100 MG Extended Release Oral Tablet
+nevirapine 200 MG Oral Tablet
+lamivudine 60 MG / nevirapine 100 MG / stavudine 12 MG Disintegrating Oral Tablet
+lamivudine 150 MG / nevirapine 200 MG / stavudine 30 MG Oral Tablet
+Efavirenz
+efavirenz 200 MG Oral Tablet
+efavirenz 200 MG Oral Capsule
+efavirenz 100 MG Oral Capsule
+efavirenz 50 MG Oral Capsule
+efavirenz 600 MG Oral Tablet
+efavirenz 600 MG / emtricitabine 200 MG / tenofovir disoproxil fumarate 300 MG Oral Tablet
+Etravirine
+etravirine 200 MG Oral Tablet
+etravirine 25 MG Oral Tablet
+etravirine 100 MG Oral Tablet
+Intelence
+Rilpivirine
+rilpivirine 25 MG Oral Tablet
+rilpivirine 2.5 MG Tablet for Oral Suspension
+Lopinavir
+lopinavir / ritonavir
+Ritonavir
+ombitasvir 12.5 MG / paritaprevir 75 MG / ritonavir 50 MG Oral Tablet
+ritonavir 100 MG Oral Powder
+ritonavir 100 MG Oral Capsule
+Atazanavir
+atazanavir 50 MG Oral Powder
+atazanavir 100 MG Oral Capsule
+atazanavir 150 MG Oral Capsule
+atazanavir 200 MG Oral Capsule
+atazanavir 300 MG Oral Capsule
+Darunavir
+darunavir 800 MG Oral Tablet
+darunavir 300 MG Oral Tablet
+darunavir 600 MG Oral Tablet
+darunavir 400 MG Oral Tablet
+Fosamprenavir
+fosamprenavir 700 MG Oral Tablet
+fosamprenavir calcium
+Lexiva
+Indinavir
+indinavir 100 MG Oral Capsule
+indinavir 200 MG Oral Capsule
+indinavir 333 MG Oral Capsule
+indinavir 400 MG Oral Capsule
+indinavir anhydrous
+indinavir sulfate
+Saquinavir
+saquinavir 200 MG Oral Capsule
+saquinavir mesylate 500 MG Oral Tablet
+saquinavir mesylate
+saquinavir 200 MG
+Tipranavir
+tipranavir 250 MG Oral Capsule
+Aptivus
+Enfuvirtide
+enfuvirtide 90 MG Injection
+Fuzeon
+Fuzeon Injectable Product
+Maraviroc
+maraviroc 25 MG Oral Tablet
+maraviroc 75 MG Oral Tablet
+maraviroc 150 MG Oral Tablet
+maraviroc 300 MG Oral Tablet
+Raltegravir
+raltegravir 100 MG Chewable Tablet
+raltegravir 25 MG Chewable Tablet
+raltegravir 100 MG Granules for Oral Suspension
+raltegravir 600 MG Oral Tablet
+raltegravir 400 MG Oral Tablet
+Elvitegravir
+Stribild
+Genvoya
+Dolutegravir
+dolutegravir 50 MG Oral Tablet
+dolutegravir 10 MG Oral Tablet
+dolutegravir 25 MG Oral Tablet
+dolutegravir 5 MG Tablet for Oral Suspension
+Bictegravir
+bictegravir 50 MG / emtricitabine 200 MG / tenofovir alafenamide 25 MG Oral Tablet
+bictegravir 30 MG / emtricitabine 120 MG / tenofovir alafenamide 15 MG Oral Tablet
+bictegravir sodium
+bictegravir / emtricitabine / tenofovir alafenamide
+Biktarvy
+Remdesivir
+remdesivir 100 MG Injection
+Veklury
+Molnupiravir
+molnupiravir 200 MG Oral Capsule
+Lagevrio
+Sofosbuvir
+sofosbuvir 400 MG Oral Tablet
+sofosbuvir 400 MG / velpatasvir 100 MG / voxilaprevir 100 MG Oral Tablet
+sofosbuvir 200 MG Oral Tablet
+sofosbuvir 150 MG Oral Pellet
+sofosbuvir 200 MG Oral Pellet
+Ledipasvir
+Daclatasvir
+daclatasvir 30 MG Oral Tablet
+daclatasvir 60 MG Oral Tablet
+daclatasvir 90 MG Oral Tablet
+daclatasvir dihydrochloride
+daclatasvir 30 MG
+Velpatasvir
+Glecaprevir
+Mavyret
+Oral Pellet
+Pibrentasvir
+Ombitasvir
+Paritaprevir
+Dasabuvir
+Baloxavir
+Telaprevir
+Boceprevir
+Ribavirin
